@@ -1,7 +1,6 @@
 #
 # Coordinates system related functions
 #
-# $Id: Coords.pm 120 2009-01-25 20:57:26Z Cosimo $
 
 package OpenGL::Earth::Coords;
 

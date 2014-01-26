@@ -1,5 +1,3 @@
-# $Id: Render.pm 128 2009-01-26 21:08:24Z Cosimo $
-
 package OpenGL::Earth::Render;
 
 use strict;

@@ -1,8 +1,6 @@
-# $Id: Earth.pm 138 2009-01-28 23:24:57Z Cosimo $
-
 package OpenGL::Earth;
 
-$VERSION = '0.04';
+$VERSION = '0.05';
 
 use strict;
 use warnings;

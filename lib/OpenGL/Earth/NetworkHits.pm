@@ -1,5 +1,3 @@
-# $Id: NetworkHits.pm 128 2009-01-26 21:08:24Z Cosimo $
-
 package OpenGL::Earth::NetworkHits;
 
 use strict;

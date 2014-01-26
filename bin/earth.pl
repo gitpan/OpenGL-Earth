@@ -15,7 +15,6 @@
 # Translated from C to Perl by J-L Morel <jl_morel@bribes.org>
 # (http://www.bribes.org/perl/wopengl.html)
 #
-# $Id: earth.pl 134 2009-01-28 07:30:23Z Cosimo $
 
 BEGIN { $| = 1 }
 
